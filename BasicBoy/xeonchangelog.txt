@@ -1,0 +1,8 @@
+This is stuff xeon has changed or added to the emulator
+to make it better than what was ever thought possible :P.
+
+- Redid About Box
+- Re-arranged menu's and added more menu options, Sound, etc.
+- Added Save States, 8 slots for EACH GAME!! (Works Pretty Good)
+- Redid ROM Info Dialog, now shows if rom is GBC!
+- Made Complete Help Document for BasicBoy

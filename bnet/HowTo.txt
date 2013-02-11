@@ -1,0 +1,13 @@
+This will not work with Firewalls/NAT's(on the server side)
+load bnet.client/server, connect, 
+press reinit link connection,
+open basicboy ,click options->
+emulated hardware->emulate link.
+The emulator should link with the chat
+(hehe this sounds a bit strange...).
+
+Notes:
+***The speed is Realy bad***
+It may not work with slow connections/some
+roms...It is olny tested with Pokemon Gold
+
